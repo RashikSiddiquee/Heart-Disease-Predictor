@@ -66,3 +66,6 @@ Visualization and correlations.ipnyb
 - Visualization of model performances
 
 
+Source of dataset: https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression
+
+
